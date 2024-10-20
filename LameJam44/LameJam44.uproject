@@ -10,6 +10,10 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "DefaultUI",
+			"Enabled": true
 		}
 	]
 }
